@@ -1,0 +1,3 @@
+C:/Users/aaric/Desktop/Grocery Store/groceryStore/cmake-build-debug/CMakeFiles/groceryStore.dir
+C:/Users/aaric/Desktop/Grocery Store/groceryStore/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aaric/Desktop/Grocery Store/groceryStore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
