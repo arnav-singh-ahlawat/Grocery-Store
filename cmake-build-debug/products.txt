@@ -1,0 +1,5 @@
+ 1 Bread 3.25 0
+ 2 Milk 4.5 5
+ 3 Eggs 6 15
+ 4 Butter 10 10
+ 5 Juice 7 30
