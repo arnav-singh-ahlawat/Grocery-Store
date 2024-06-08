@@ -1,8 +1,14 @@
 # Grocery Store Management System
 
+![#GROCERY-STORE-PROGRAMME](https://github.com/arnav-singh-ahlawat/Grocery-Store/assets/159664776/49ab8a1f-ebbd-4223-b545-7d805d1dc2a5)
+
 ## Overview:
 
 This project aims to provide a comprehensive software solution for managing inventory, sales, and customer transactions within grocery store operations. Developed in C++, this application offers a user-friendly interface and efficient functionalities to streamline various aspects of grocery store management.
+
+## Video Demo:
+
+https://github.com/arnav-singh-ahlawat/Grocery-Store/assets/159664776/13c6c6a9-335e-480b-86d5-43414a52f6ad
 
 ## Features:
 
